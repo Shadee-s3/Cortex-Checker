@@ -7,7 +7,7 @@ this mod checker is FREE?!?
 NOT PAID?!?
 
 which probably makes the mod checker so good
-but IF THE TEXT IS BACKWARDS, GO TO 2ND TOP BUTTONS, THEN CLICK 3RD BUTTONS
+but IF THE TEXT IS BACKWARDS, GO TO 2ND TOP BUTTONS, THEN CLICK 3RD BUTTON AT THE BOTTOM
 then everything should be fine :D
 
 ddd discord?!?
