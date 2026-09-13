@@ -18,6 +18,6 @@ better join:  https://discord.gg/ACU4ynB5W
 
 ok enjoy
 
-![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/YOUR_REPO/total.svg)
+![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/Cortex-Checker/total.svg)
 
 CREDS to nobody, i did it my self
