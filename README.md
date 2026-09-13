@@ -1,6 +1,8 @@
 # Cortex-Checker
 Gorilla tag mod checker, which ACTUALLY works, and its free!
 
+IF IT FLAGS AS A VIRUS, ITS FALSE POSOTIVE
+
 this mod checker is FREE?!?
 NOT PAID?!?
 
