@@ -1,19 +1,18 @@
-+Currently adding
++ADDED
 
-+ adding better sounds
++ better theme menu
 
-+ adding better themes
++ better checks
 
-+Currently fixing
++FIXED
 
-+ checker
-
-+ mic
++ bugs
 
 + gunlib
 
--Currently removing
+-REMOVED
 
-- bugs
+- old theme
 
-- extra menu cubes
+NOT RELEASING UPDATE YET DUE TO THE FACT THAT GITHUB IS GLITCHED FOR ME SO YEAH DONT WORRY
+I WILL RELEASE MENU SOON
